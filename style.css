@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.feed {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.feed h2 {
+  margin-top: 0;
+}
+
+.feed ul {
+  list-style: none;
+  padding: 0;
+}
+
+.feed li {
+  margin: 10px 0;
+}
+
+.feed a {
+  text-decoration: none;
+  color: #333;
+}
+
+.feed a:hover {
+  text-decoration: underline;
+}
